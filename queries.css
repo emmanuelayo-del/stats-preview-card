@@ -1,0 +1,5 @@
+@media (max-width: 1440px) {
+  .container {
+    border: 1px solid red;
+  }
+}
